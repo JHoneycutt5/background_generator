@@ -1,0 +1,1 @@
+# This is a simple background generator made with HTML, CSS, and JavaScript :)
